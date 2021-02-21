@@ -1,9 +1,11 @@
 # Earthquake-Notify
+![Python Version](https://img.shields.io/badge/Python-3.5%2B-orange)
+![Twitter V2](https://img.shields.io/badge/Twitter%20API-v2-blue)
 ## 概要
- - 地震情報をTwitterから取得してLINEに通知します。
-
+ - Twitterからツイートを取得してLINEに通知します。
 ## 仕様について
- - Twitter API v2を使用しています。
+ - Twitter API v2
+ - Python3.5+
 
 ## 準備
  - `/bin/env python setup.py install` を実行して必要なモジュールをインストールします。
