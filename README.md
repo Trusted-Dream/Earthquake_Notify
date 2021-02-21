@@ -1,7 +1,6 @@
 # Earthquake-Notify
 ## 概要
- - 地震情報をTwitterから取得してLINEに通知します。
-
+ - Twitterからツイートを取得してLINEに通知します。
 ## 仕様について
  - Twitter API v2を使用しています。
 
